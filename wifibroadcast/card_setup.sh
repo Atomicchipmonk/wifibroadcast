@@ -1,5 +1,5 @@
 #!/bin/bash
-CARD=wlan1
+CARD=wlan0
 
 
 sudo ifconfig ${CARD} down
